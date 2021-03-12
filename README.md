@@ -8,7 +8,7 @@ Minor updates to the repository due to changes/deprecations in several packages.
 <P>
 
 **2016-08-30**:<BR>
-Chapter 6: I included Ridge/Lasso regression code using the new <A href='https://github.com/civisanalytics/python-glmnet'>python-glmnet</A> library. This is a python wrapper for the Fortran library used in the *R* package *glmnet*. 
+HAChapter 6: I included Ridge/Lasso regression code using the new <A href='https://github.com/civisanalytics/python-glmnet'>python-glmnet</A> library. This is a python wrapper for the Fortran library used in the *R* package *glmnet*. 
 <P>
 
 <IMG src='Notebooks/ISL%20Cover%202.jpg' height=20% width=20%> <P>
